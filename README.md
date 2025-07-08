@@ -68,12 +68,19 @@ The bot includes a powerful anti-nuke system to protect against malicious action
 - `/ticket list` - List all tickets
 - `/ticket setup` - Configure ticket system
 
+
 ### Music Commands
 - `/play` - Play a song
 - `/stop` - Stop the music
 - `/skip` - Skip the current song
 - `/queue` - View the music queue
 - `/volume` - Adjust the volume
+
+### Utility Commands
+- `/help` - Show command list
+- `/rules` - Configure command rules
+- `/ping` - Check bot latency
+- `/avatar` - Display a user's avatar
 
 ## Setup
 1. Create a `.env` file with your bot token:
@@ -91,4 +98,4 @@ npm install
 3. Start the bot:
 ```
 npm start
-``` 
+```
