@@ -1,0 +1,42 @@
+{
+  "1380954656196268082": {
+    "guildId": "1380954656196268082",
+    "antiNuke": {
+      "enabled": true,
+      "punishment": "BAN",
+      "maxBans": 3,
+      "maxKicks": 3,
+      "maxRoleDeletes": 2,
+      "maxChannelDeletes": 2,
+      "actionThreshold": 60000,
+      "whitelistedUsers": [],
+      "maxWebhookDeletes": 3,
+      "maxEmojiDeletes": 5,
+      "maxPermissionUpdates": 5,
+      "maxMassMentions": 3,
+      "maxBotAdds": 2,
+      "maxGuildUpdates": 2,
+      "maxMemberPrunes": 2,
+      "emergencyModeEnabled": false,
+      "quarantinedUsers": {}
+    },
+    "antiRaid": {
+      "enabled": false,
+      "joinThreshold": 10,
+      "joinTime": 30000,
+      "minAccountAge": 604800000,
+      "newAccountThreshold": 5,
+      "similarNameThreshold": 0.8,
+      "action": "VERIFICATION",
+      "raidModeCooldown": 1800000,
+      "verificationChannelId": "1380954656980861010",
+      "verificationMessageId": "1389621110697365555"
+    },
+    "ticketSystem": {
+      "enabled": true,
+      "categoryId": "1388914575377961041",
+      "logsChannelId": null,
+      "supportRoles": []
+    }
+  }
+}

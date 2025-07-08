@@ -1,0 +1,29 @@
+# Ticket Transcript (Auto-generated before deletion)
+
+**Ticket ID:** ticket-mckl5x0t
+**Created By:** _exhobyte. (1380147983663759383)
+**Created At:** Tue, 01 Jul 2025 13:51:10 GMT
+**Deleted At:** Tue, 01 Jul 2025 15:53:37 GMT
+**Deleted By:** _exhobyte. (1380147983663759383)
+**Delete Reason:** No reason provided
+
+## Messages
+
+**License (Advanced)#1356** (Tue, 01 Jul 2025 13:51:10 GMT):
+<@1380147983663759383> Welcome to your ticket!
+
+**_exhobyte.** (Tue, 01 Jul 2025 13:51:19 GMT):
+close
+
+**License (Advanced)#1356** (Tue, 01 Jul 2025 13:51:20 GMT):
+*No text content*
+
+**License (Advanced)#1356** (Tue, 01 Jul 2025 13:51:22 GMT):
+This channel will be automatically deleted in 24 hours.
+
+**_exhobyte.** (Tue, 01 Jul 2025 15:53:35 GMT):
+delete
+
+**License (Advanced)#1356** (Tue, 01 Jul 2025 15:53:36 GMT):
+🗑️ Ticket will be deleted in 5 seconds. Reason: No reason provided
+

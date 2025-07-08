@@ -1,0 +1,37 @@
+# Ticket Transcript (Auto-generated before deletion)
+
+**Ticket ID:** ticket-mchv9lya
+**Created By:** _exhobyte. (1380147983663759383)
+**Created At:** Sun, 29 Jun 2025 16:10:40 GMT
+**Deleted At:** Tue, 01 Jul 2025 15:53:38 GMT
+**Deleted By:** _exhobyte. (1380147983663759383)
+**Delete Reason:** No reason provided
+
+## Messages
+
+**License (Advanced)#1356** (Sun, 29 Jun 2025 16:10:40 GMT):
+<@1380147983663759383> Welcome to your ticket!
+
+**License (Advanced)#1356** (Sun, 29 Jun 2025 16:12:12 GMT):
+❌ An error occurred while closing the ticket!
+
+**License (Advanced)#1356** (Sun, 29 Jun 2025 16:12:30 GMT):
+*No text content*
+
+**License (Advanced)#1356** (Sun, 29 Jun 2025 16:12:33 GMT):
+✅ Transcript generated successfully!
+**Attachments:**
+- https://cdn.discordapp.com/attachments/1388914577709994045/1388915056049131551/transcript-ticket-mchv9lya.txt?ex=6864b1b2&is=68636032&hm=2a56b286e2bf559ad09f233946f53b1df70b4a9c8a29da8e4f320f9df0473bcb&
+
+**License (Advanced)#1356** (Sun, 29 Jun 2025 16:29:45 GMT):
+*No text content*
+
+**License (Advanced)#1356** (Sun, 29 Jun 2025 16:29:47 GMT):
+This channel will be automatically deleted in 24 hours.
+
+**_exhobyte.** (Tue, 01 Jul 2025 15:53:36 GMT):
+delete
+
+**License (Advanced)#1356** (Tue, 01 Jul 2025 15:53:37 GMT):
+🗑️ Ticket will be deleted in 5 seconds. Reason: No reason provided
+

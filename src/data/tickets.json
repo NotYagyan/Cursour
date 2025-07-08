@@ -1,0 +1,94 @@
+{
+  "ticket-mchv9lya": {
+    "ticketId": "ticket-mchv9lya",
+    "guildId": "1380954656196268082",
+    "channelId": "1388914577709994045",
+    "userId": "1380147983663759383",
+    "userTag": "_exhobyte.",
+    "reason": "setup",
+    "status": "DELETED",
+    "createdAt": "2025-06-29T16:10:40.764Z",
+    "transcript": [
+      {
+        "generatedBy": "1380147983663759383",
+        "generatedAt": "2025-06-29T16:12:34.190Z",
+        "content": "# Ticket Transcript\n\n**Ticket ID:** ticket-mchv9lya\n**Created By:** _exhobyte. (1380147983663759383)\n**Created At:** Sun, 29 Jun 2025 16:10:40 GMT\n\n## Messages\n\n**License (Advanced)#1356** (Sun, 29 Jun 2025 16:10:40 GMT):\n<@1380147983663759383> Welcome to your ticket!\n**Embeds:** 1\n\n**License (Advanced)#1356** (Sun, 29 Jun 2025 16:12:12 GMT):\n❌ An error occurred while closing the ticket!\n\n**License (Advanced)#1356** (Sun, 29 Jun 2025 16:12:30 GMT):\n*No text content*\n**Embeds:** 1\n\n**License (Advanced)#1356** (Sun, 29 Jun 2025 16:12:33 GMT):\n*No text content*\n\n"
+      },
+      {
+        "generatedBy": "AUTO-DELETE",
+        "generatedAt": "2025-07-01T15:53:38.267Z",
+        "filename": "ticket-mchv9lya-1751385218177.txt"
+      }
+    ],
+    "claimedBy": "1380147983663759383",
+    "claimedAt": "2025-06-29T16:12:30.292Z",
+    "closedAt": "2025-06-29T16:29:46.020Z",
+    "closedBy": "1380147983663759383",
+    "closeReason": "Closed via button",
+    "deletedAt": "2025-07-01T15:53:37.196Z",
+    "deletedBy": "1380147983663759383",
+    "deleteReason": "No reason provided"
+  },
+  "ticket-mckl5x0t": {
+    "ticketId": "ticket-mckl5x0t",
+    "guildId": "1380954656196268082",
+    "channelId": "1389604247552790660",
+    "userId": "1380147983663759383",
+    "userTag": "_exhobyte.",
+    "reason": "No reason provided",
+    "status": "DELETED",
+    "createdAt": "2025-07-01T13:51:10.577Z",
+    "transcript": [
+      {
+        "generatedBy": "AUTO-DELETE",
+        "generatedAt": "2025-07-01T15:53:37.186Z",
+        "filename": "ticket-mckl5x0t-1751385217160.txt"
+      }
+    ],
+    "closedAt": "2025-07-01T13:51:20.462Z",
+    "closedBy": "1380147983663759383",
+    "closeReason": "No reason provided",
+    "deletedAt": "2025-07-01T15:53:35.957Z",
+    "deletedBy": "1380147983663759383",
+    "deleteReason": "No reason provided"
+  },
+  "ticket-mckpfpq7": {
+    "ticketId": "ticket-mckpfpq7",
+    "guildId": "1380954656196268082",
+    "channelId": "1389634343239942407",
+    "userId": "1380147983663759383",
+    "userTag": "_exhobyte.",
+    "createdBy": "1380147983663759383",
+    "creatorTag": "_exhobyte.",
+    "createdAt": "2025-07-01T15:50:46.813Z",
+    "reason": "No reason provided",
+    "status": "DELETED",
+    "closeRequests": [
+      {
+        "requestedBy": "1380147983663759383",
+        "requestedByTag": "_exhobyte.",
+        "requestedAt": "2025-07-01T15:52:51.810Z",
+        "message": null
+      }
+    ],
+    "closedAt": "2025-07-01T15:53:10.716Z",
+    "closedBy": "1380147983663759383",
+    "closeReason": "User confirmed close request",
+    "userConfirmedClose": true,
+    "deletedAt": "2025-07-01T15:53:26.486Z",
+    "deletedBy": "1380147983663759383",
+    "deleteReason": "No reason provided",
+    "transcript": [
+      {
+        "generatedBy": "AUTO-DELETE",
+        "generatedAt": "2025-07-01T15:53:24.600Z",
+        "filename": "ticket-mckpfpq7-1751385204599.txt"
+      },
+      {
+        "generatedBy": "AUTO-DELETE",
+        "generatedAt": "2025-07-01T15:53:27.637Z",
+        "filename": "ticket-mckpfpq7-1751385207625.txt"
+      }
+    ]
+  }
+}
