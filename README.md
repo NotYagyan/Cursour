@@ -45,6 +45,11 @@ The bot includes a powerful anti-nuke system to protect against malicious action
 - Volume control
 - Skip, pause, resume controls
 
+### Utility Tools
+- Configure prefixes and command rules
+- Detailed interactive help menu
+- Quick utilities like ping and server info
+
 ## Commands
 
 ### Anti-Nuke Commands
@@ -74,6 +79,12 @@ The bot includes a powerful anti-nuke system to protect against malicious action
 - `/skip` - Skip the current song
 - `/queue` - View the music queue
 - `/volume` - Adjust the volume
+
+### Utility Commands
+- `/help` - Display command list and details
+- `/rules` - Configure prefixes and command permissions
+- `/ping` - Check bot latency
+- `/serverinfo` - Show information about the current server
 
 ## Setup
 1. Create a `.env` file with your bot token:
